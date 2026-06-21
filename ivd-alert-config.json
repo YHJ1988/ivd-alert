@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updateTime": "2026-06-21T13:59:00",
+  "updateTime": "2026-06-21T14:05:00",
   "alert": {
-    "title": "🔔 亚辉龙项目通知",
+    "title": "🔔 重要通知",
     "items": [
       { "date": "6月22日", "projects": "脂类B、常规化学C、糖化白蛋白" }
     ]
