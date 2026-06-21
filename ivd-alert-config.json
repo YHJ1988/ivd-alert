@@ -1,7 +1,34 @@
 {
-  "title": "🔔 昭蓝质控停产",
-  "items": [
-    { "date": "6月18日", "projects": "肿瘤标志物B、常规化学A" },
-    { "date": "6月22日", "projects": "脂类B、常规化学C、糖化白蛋白" }
-  ]
+  "version": 1,
+  "updateTime": "2026-06-21T14:00:00",
+  "alert": {
+    "title": "🔔 昭蓝质控停产",
+    "items": [
+      { "date": "6月18日", "projects": "肿瘤标志物B、常规化学A" },
+      { "date": "6月22日", "projects": "脂类B、常规化学C、糖化白蛋白" }
+    ]
+  },
+  "notice": {
+    "enabled": false,
+    "title": "",
+    "content": "",
+    "url": "",
+    "backgroundColor": "#FFF7ED",
+    "textColor": "#D93025"
+  },
+  "featureToggles": {
+    "examModule": true,
+    "marketingModule": true,
+    "adminModule": true,
+    "showAlertOnExam": true,
+    "showAlertOnMine": true,
+    "showAlertOnMarketing": false
+  },
+  "appConfig": {
+    "minVersion": "1.0.0",
+    "latestVersion": "1.0.0",
+    "forceUpdate": false,
+    "updateUrl": "",
+    "updateMessage": ""
+  }
 }
