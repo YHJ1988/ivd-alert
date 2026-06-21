@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "updateTime": "2026-06-21T13:50:00",
+  "updateTime": "2026-06-21T13:59:00",
   "alert": {
-    "title": "🔔 昭蓝质控停产",
+    "title": "🔔 亚辉龙项目通知",
     "items": [
-      { "date": "6月18日", "projects": "肿瘤标志物B、常规化学A" },
       { "date": "6月22日", "projects": "脂类B、常规化学C、糖化白蛋白" }
     ]
   },
