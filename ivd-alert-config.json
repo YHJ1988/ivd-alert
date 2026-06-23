@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updateTime": "2026-06-23T18:35:00",
+  "version": 8,
+  "updateTime": "2026-06-23T18:55:00",
   "alert": {
     "title": "🔔季度工作核查",
     "items": [
@@ -9,7 +9,7 @@
     ]
   },
   "notice": {
-    "enabled": ture,
+    "enabled": true,
     "title": "",
     "content": "",
     "url": "",
